@@ -4,7 +4,7 @@ import './homepage.tyles.scss'
 import Directory from "../../components/directory/directory.component";
 const  Homepage = ()=>(
     <div className={'homepage'}>
-        <Directory />
+        <Directory history />
     </div>
 )
 export  default  Homepage
