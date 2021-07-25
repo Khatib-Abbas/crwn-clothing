@@ -1,5 +1,5 @@
 import React  from "react";
-import  './fom-input.styles.scss'
+import  './form-input.styles.scss'
 
 const FomInput = ({handleChange,label,...otherProps})=>(
     <div className={'group'}>

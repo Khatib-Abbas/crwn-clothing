@@ -1,6 +1,6 @@
 import React from "react";
 import './sign-in.styles.scss'
-import FomInput from "../form-input/fom-input.component";
+import FomInput from "../form-input/form-input.component";
 import CustomButton from "../custom-button/custom-button.component";
 import {signInWithGoogle} from '../../firebase/firebase.utils'
 class SignIn extends  React.Component{
